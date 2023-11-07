@@ -1,0 +1,106 @@
+#Sample GitIgnore from: https://answers.unrealengine.com/questions/16787/how-to-setup-git-for-an-ue4-project.html
+# UE5 Project directories to ignore
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+/Production/
+/Content/StarterContent/
+/Content/Vehicles/
+/Content/CitySampleCrowd/
+/Content/AnimalVarietyPack/
+/Content/UltraDynamicSky/
+/Content/StreetLightMaterials/
+/Content/AutomotiveBridgeScene/
+/Content/RoadMaterials/
+/Content/RuralAustralia/
+/Content/Developers/
+/Content/Collections/
+# Mountain
+/Content/Megascans/
+/Content/MS_MountainSl/
+/Content/STF/
+/Content/Landscapes/
+/Content/Mountain/
+# City
+/Content/textured/
+/Content/__ExternalActors__/Map/
+/Content/AI/
+/Content/Audio/
+/Content/Building/
+/Content/Character/
+/Content/Cinematics/
+/Content/City/
+/Content/Crowd/
+/Content/Effect/
+/Content/Environment/
+/Content/Gameplay/
+/Content/Input/
+/Content/Map/
+/Content/Material/
+/Content/MSPresets/
+/Content/Prop/
+/Content/Road/
+/Content/STF/
+/Content/Textures/
+/Content/UI/
+/Content/Vehicle/
+/Content/WFC/
+/Content/FreewayFoliage
+/Plugins/
+
+
+
+# Visual Studio solutions
+/*.sln
+/*.sdf
+/*.opensdf
+/*.suo
+/.vs
+/.vs/*
+/.vsconfig
+
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+#*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+# Linux Project files
+/*.pro
+/*.kdev4
+/CMakeLists.txt
+/Makefile
+     
+# Xcode Project files
+/*.xcodeproj
+
+# Jacobs MAC STUFFFFF
+*.xcworkspace
+*.DS_Store
+
+# Account passwords
+TrafficSimUE5Passwords.txt
