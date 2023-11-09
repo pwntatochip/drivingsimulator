@@ -1,2 +1,2 @@
 # drivingsimulator
-A driving simulator for the dean of engineering at CSUS
+A driving simulator for the dean of civil engineering at CSUS
