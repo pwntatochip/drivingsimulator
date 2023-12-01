@@ -5,7 +5,7 @@ This application has been developed by TryToTry, a CSUS Computer Science senior 
 Credits to the developers at team TryToTry:
 **Derek Dilger, Christian Ross, Tim O'Keefe, Ada Mir Raga, Drew Bruggman, David Damiano, Alec Halici, and Gerrit Beamesderfer.**
 
-#Features
+# Features
 
 * Realistic driving physics: Experience authentic vehicle dynamics and handling
 * Multiple environments: Explore different driving environments with our freeway, highway, and city maps
