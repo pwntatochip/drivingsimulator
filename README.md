@@ -13,6 +13,23 @@ Credits to the developers at team TryToTry:
 * Variable weather: Drive in various environmental conditions such as rain, snow, wind, dust for a more dynamic experience
 * VR support: Immerse yourself further with virtual reality support for compatible devices
 
+# Getting Started
+## Prerequisites
+* Unreal Engine 5.1.1 installed on your machine
+* Campatible hardware for VR support (if using VR)
+* Capable computer to run simulation
+
+## Installation
+1. Clone the repository to your local machine
+   gh repo clone pwntatochip/drivingsimulator
+2. Download zip files
+   https://drive.google.com/drive/folders/1k0AOF5my0YDM_6b9p3FLuTJvPV-oGEd0
+3. Replace 'Content' and 'Plugins' folders in the local git repo with the same folders in the newly downloaded zip files.
+   * Make sure not to removed the 'Our Files' folder in the 'Content' folder of the git repo
+   * The 'Content' and 'Plugins' folders in the zips contain assets too large to commit to github
+4. Open the local git repo and right click the Unreal Engine Project File named 'TrafficSimUE5' with the blue Unreal Engine logo
+5. Select "Generate Visual Studio project files"
+6. Open the project in Unreal Engine 5.1.1
 # Testing
 
 # Deployment
