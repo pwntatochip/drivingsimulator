@@ -37,6 +37,10 @@ Credits to the developers at team TryToTry:
 * Use the 'WASD' keys to control the vehicle or the steering wheel and pedals if you are using them
 * Select any of the options menus on the top of the screen to see relevant information, change simulator settings, or to record and log information
 
+# UI Changes
+![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/0a44f650-a2fb-4b2e-80c2-e25e80ad893c) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/086350e1-0f48-405c-9d3e-9cc905554b76)
+
+
 # Testing
 
 # Deployment
