@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleAnimGraphRuntime\\CitySampleAnimGraphRuntime.Build.cs",
+		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleEditor\\CitySampleEditor.Build.cs",
+		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySample\\CitySample.Build.cs",
+		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySample.Target.cs",
+		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

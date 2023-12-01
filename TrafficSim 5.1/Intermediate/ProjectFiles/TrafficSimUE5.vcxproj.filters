@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TrafficSimUE5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CitySample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CitySampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\TrafficSimUE5.png" />
+    <None Include="..\..\TrafficSimUE5Splash.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultDeviceProfiles.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultMass.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultNetworkPrediction.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultPlugins.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Config\Localization">
+      <UniqueIdentifier>{25C28B87-132A-3131-93E6-9EBC1CFCF780}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Localization\CitySample_Compile.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_Export.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_ExportDialogueScript.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_Gather.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_GenerateReports.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_Import.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_ImportDialogue.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\CitySample_ImportDialogueScript.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Windows">
+      <UniqueIdentifier>{18AE318C-ED72-32BD-AE1E-46F57252EBE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Windows\Config">
+      <UniqueIdentifier>{60A3FC9E-81EF-3088-9893-E60C4CDB4097}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Windows\Config\WindowsDeviceProfiles.ini">
+      <Filter>Platforms\Windows\Config</Filter>
+    </None>
+    <None Include="..\..\Platforms\Windows\Config\WindowsEngine.ini">
+      <Filter>Platforms\Windows\Config</Filter>
+    </None>
+    <Filter Include="Source\CitySampleAnimGraphRuntime">
+      <UniqueIdentifier>{0F51ECA1-4A51-395B-88EB-5A91F4B8759F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CopyPoseRotations.cpp">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CopyPoseRotations.h">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CrowdSlopeWarping.cpp">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CrowdSlopeWarping.h">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_RequestInertialization.cpp">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_RequestInertialization.h">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphRuntime.Build.cs">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphRuntime.cpp">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleAnimGraphRuntime\CitySampleAnimGraphRuntime.h">
+      <Filter>Source\CitySampleAnimGraphRuntime</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor">
+      <UniqueIdentifier>{DA2FB6FE-36C9-3BCA-81E6-7B1B98AC8B5E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CitySampleEditor\CitySampleEditor.Build.cs">
+      <Filter>Source\CitySampleEditor</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CitySampleEditor\CitySampleEditor.cpp">
+      <Filter>Source\CitySampleEditor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\CitySampleEditor.h">
+      <Filter>Source\CitySampleEditor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleEditor\CitySampleEditorBlueprintLibrary.cpp">
+      <Filter>Source\CitySampleEditor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\CitySampleEditorBlueprintLibrary.h">
+      <Filter>Source\CitySampleEditor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleEditor\CitySampleUnrealEdEngine.cpp">
+      <Filter>Source\CitySampleEditor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\CitySampleUnrealEdEngine.h">
+      <Filter>Source\CitySampleEditor</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\Commandlets">
+      <UniqueIdentifier>{E70DEFA3-27C5-339C-87F7-7A8296EF63D5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\Commandlets\AssetHardReferencesCommandlet.cpp">
+      <Filter>Source\CitySampleEditor\Commandlets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\Commandlets\AssetHardReferencesCommandlet.h">
+      <Filter>Source\CitySampleEditor\Commandlets</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleEditor\Commandlets\CitySampleContentValidationCommandlet.cpp">
+      <Filter>Source\CitySampleEditor\Commandlets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\Commandlets\CitySampleContentValidationCommandlet.h">
+      <Filter>Source\CitySampleEditor\Commandlets</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleEditor\Commandlets\NaniteMeshLodGroupUpdateCommandlet.cpp">
+      <Filter>Source\CitySampleEditor\Commandlets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\Commandlets\NaniteMeshLodGroupUpdateCommandlet.h">
+      <Filter>Source\CitySampleEditor\Commandlets</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\LevelInstance">
+      <UniqueIdentifier>{33452E9E-E478-3611-ACB9-21CEF372C8F5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\LevelInstance\CitySampleLevelInstanceUtils.cpp">
+      <Filter>Source\CitySampleEditor\LevelInstance</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\LevelInstance\CitySampleLevelInstanceUtils.h">
+      <Filter>Source\CitySampleEditor\LevelInstance</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\MeshMerging">
+      <UniqueIdentifier>{B0D0C372-61EC-3360-A452-56CAA540416B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\MeshMerging\CitySampleMeshMerging.cpp">
+      <Filter>Source\CitySampleEditor\MeshMerging</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\MeshMerging\CitySampleMeshMerging.h">
+      <Filter>Source\CitySampleEditor\MeshMerging</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\MetaHumans">
+      <UniqueIdentifier>{AE6DEB2A-22B6-3C86-9D29-604525DC740C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\MetaHumans\MetaHumanToolEditorBlueprintLibrary.cpp">
+      <Filter>Source\CitySampleEditor\MetaHumans</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\MetaHumans\MetaHumanToolEditorBlueprintLibrary.h">
+      <Filter>Source\CitySampleEditor\MetaHumans</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\UtilityWidgets">
+      <UniqueIdentifier>{90EDDD15-912F-3DEE-B45B-50BB6C39C6C2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\UtilityWidgets\TextureDeDupeWidget.cpp">
+      <Filter>Source\CitySampleEditor\UtilityWidgets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\UtilityWidgets\TextureDeDupeWidget.h">
+      <Filter>Source\CitySampleEditor\UtilityWidgets</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\Validation">
+      <UniqueIdentifier>{103F6B82-1FC7-3600-8022-51AD3828ECCC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\Validation\CitySampleEditorValidator.cpp">
+      <Filter>Source\CitySampleEditor\Validation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\Validation\CitySampleEditorValidator.h">
+      <Filter>Source\CitySampleEditor\Validation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleEditor\Validation\CitySampleValidator_Blueprints.cpp">
+      <Filter>Source\CitySampleEditor\Validation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\Validation\CitySampleValidator_Blueprints.h">
+      <Filter>Source\CitySampleEditor\Validation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySampleEditor\Validation\CitySampleValidator_Load.cpp">
+      <Filter>Source\CitySampleEditor\Validation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\Validation\CitySampleValidator_Load.h">
+      <Filter>Source\CitySampleEditor\Validation</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySampleEditor\WorldPartition">
+      <UniqueIdentifier>{7B0609DF-BDB5-30A9-ADB0-ED405598B6B1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySampleEditor\WorldPartition\CitySampleHLODBuilderMeshApproximate.cpp">
+      <Filter>Source\CitySampleEditor\WorldPartition</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySampleEditor\WorldPartition\CitySampleHLODBuilderMeshApproximate.h">
+      <Filter>Source\CitySampleEditor\WorldPartition</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample">
+      <UniqueIdentifier>{EC6930C2-E4D9-3863-9B54-FC5C697D898D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CitySample\CitySample.Build.cs">
+      <Filter>Source\CitySample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CitySample\CitySample.cpp">
+      <Filter>Source\CitySample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\CitySample.h">
+      <Filter>Source\CitySample</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Anim">
+      <UniqueIdentifier>{F0817DB1-9A7B-3811-A16C-90F9CE028308}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimInstance_Accessory.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimInstance_Accessory.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimInstance_Crowd.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimInstance_Crowd.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimInstance_Crowd_Head.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimInstance_Crowd_Head.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimNode_CopyPoseRotations.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimNode_CopyPoseRotations.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimNode_CrowdSlopeWarping.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimNode_CrowdSlopeWarping.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimNode_RequestInertialization.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimNode_RequestInertialization.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimNotifyState_PlayMontageOnFace.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimNotifyState_PlayMontageOnFace.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimSet_Accessory.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimSet_Accessory.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\CitySampleAnimSet_Locomotion.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\CitySampleAnimSet_Locomotion.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Anim\RootMotionModifier_CitySampleSimpleWarp.cpp">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Anim\RootMotionModifier_CitySampleSimpleWarp.h">
+      <Filter>Source\CitySample\Anim</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Camera">
+      <UniqueIdentifier>{130AF5F6-1B16-38E2-B7F1-94F27BA05867}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CameraMod_PostProcessMaterial.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CameraMod_PostProcessMaterial.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CitySampleCameraMode.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CitySampleCameraMode.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CitySampleCamera_Drone.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CitySampleCamera_Drone.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CitySampleCamera_PhotoMode.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CitySampleCamera_PhotoMode.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CitySampleCam_Driving.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CitySampleCam_Driving.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CitySampleCam_ThirdPerson.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CitySampleCam_ThirdPerson.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\CitySamplePlayerCameraManager.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\CitySamplePlayerCameraManager.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Camera\PhotoModeComponent.cpp">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Camera\PhotoModeComponent.h">
+      <Filter>Source\CitySample\Camera</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Character">
+      <UniqueIdentifier>{7A2CA3CE-CAB2-39F2-8244-FBD9B74CAB28}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Character\CitySampleCharacter.cpp">
+      <Filter>Source\CitySample\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Character\CitySampleCharacter.h">
+      <Filter>Source\CitySample\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Character\CitySampleCharacterMovementComponent.cpp">
+      <Filter>Source\CitySample\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Character\CitySampleCharacterMovementComponent.h">
+      <Filter>Source\CitySample\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Character\CitySampleHoverDrone.cpp">
+      <Filter>Source\CitySample\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Character\CitySampleHoverDrone.h">
+      <Filter>Source\CitySample\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Crowd">
+      <UniqueIdentifier>{292BA205-7E74-3ECF-AE83-7FBE0183C58A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CitySampleCrowdSettings.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CitySampleCrowdSettings.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CitySampleMassContextualAnimTask.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CitySampleMassContextualAnimTask.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdBlueprintLibrary.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdBlueprintLibrary.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdCharacterActor.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdCharacterActor.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdCharacterDataAsset.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdCharacterDataAsset.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdCharacterDefinition.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdCharacterDefinition.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdCharacterEnums.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdCharacterLineupActor.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdCharacterLineupActor.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdPresetDataAsset.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdPresetDataAsset.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdVisualizationCustomDataProcessor.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdVisualizationCustomDataProcessor.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Crowd\CrowdVisualizationFragment.cpp">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Crowd\CrowdVisualizationFragment.h">
+      <Filter>Source\CitySample\Crowd</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\FX">
+      <UniqueIdentifier>{86C58D6E-12B3-3BC2-8615-8EF5C5387926}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\FX\CitySampleNiagaraFunctionLibrary.cpp">
+      <Filter>Source\CitySample\FX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\FX\CitySampleNiagaraFunctionLibrary.h">
+      <Filter>Source\CitySample\FX</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Game">
+      <UniqueIdentifier>{3AF59426-8B1D-35C5-A9F7-6C2F07CB714C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleAsyncActorDetectionComponent.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleAsyncActorDetectionComponent.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleCheatManager.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleCheatManager.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleGameInstanceBase.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleGameInstanceBase.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleGameMode.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleGameMode.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleGameState.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleGameState.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleInteractionComponent.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleInteractionComponent.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleInteractorInterface.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleInteractorInterface.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySamplePlayerController.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySamplePlayerController.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySamplePlayFromHere.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySamplePlayFromHere.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleSaveGame.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleSaveGame.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\CitySampleWorldInfo.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\CitySampleWorldInfo.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Game\ICitySampleTraversalInterface.cpp">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Game\ICitySampleTraversalInterface.h">
+      <Filter>Source\CitySample\Game</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\LevelInstance">
+      <UniqueIdentifier>{469C599C-52E9-3344-A960-F05E71C4C6BC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\LevelInstance\CitySampleConvertedISMActor.cpp">
+      <Filter>Source\CitySample\LevelInstance</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\LevelInstance\CitySampleConvertedISMActor.h">
+      <Filter>Source\CitySample\LevelInstance</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Tests">
+      <UniqueIdentifier>{9139906A-4216-3DA1-B6B0-3FF646A48793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CitySample\Tests\Controllers">
+      <UniqueIdentifier>{61FA0525-0EAC-3BC6-B2E6-79DC2DFB7B5D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Tests\Controllers\CitySampleTestControllerAutoTest.cpp">
+      <Filter>Source\CitySample\Tests\Controllers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Tests\Controllers\CitySampleTestControllerAutoTest.h">
+      <Filter>Source\CitySample\Tests\Controllers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Tests\Controllers\CitySampleTestControllerBase.cpp">
+      <Filter>Source\CitySample\Tests\Controllers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Tests\Controllers\CitySampleTestControllerBase.h">
+      <Filter>Source\CitySample\Tests\Controllers</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\UI">
+      <UniqueIdentifier>{D5527C06-A8BF-3074-BE87-E2B412B28F00}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleButtonPrompt.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleButtonPrompt.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleControlsOverlay.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleControlsOverlay.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleControlsOverlayInterface.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleDrivingUI.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleDrivingUI.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleMapWidget.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleMapWidget.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleMenu.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleMenu.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleOptionSelector.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleOptionSelector.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleOptionsPanel.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleOptionsPanel.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySamplePanel.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySamplePanel.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleTypesUI.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleTypesUI.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleUIComponent.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleUIComponent.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\UI\CitySampleUIComponentInterface.cpp">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\UI\CitySampleUIComponentInterface.h">
+      <Filter>Source\CitySample\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Util">
+      <UniqueIdentifier>{00B9FBCD-1D26-35E3-97F3-A5FDAF6823E3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CitySample\Util\CitySampleAssetManager.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleAssetManager.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\CitySampleBlueprintLibrary.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleBlueprintLibrary.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\CitySampleInputModifiers.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleInputModifiers.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\CitySampleInterpolators.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleInterpolators.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleRumbleInfo.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleSurfaceRumbleSettings.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleTypes.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CitySample\Util\CitySampleVisualizationToggleType.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\ICitySampleInputInterface.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\ICitySampleInputInterface.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\LoadingUtilLibrary.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\LoadingUtilLibrary.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\MyBlueprintFunctionLibrary.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\MyBlueprintFunctionLibrary.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Util\SaveFolderDialogThread.cpp">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Util\SaveFolderDialogThread.h">
+      <Filter>Source\CitySample\Util</Filter>
+    </ClInclude>
+    <Filter Include="Source\CitySample\Vehicles">
+      <UniqueIdentifier>{F818F631-E5BE-3C15-BF6F-F1CA6D2B87B2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CitySample\Vehicles\CitySampleDrivingState.h">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Vehicles\CitySampleMassVehicleBase.cpp">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Vehicles\CitySampleMassVehicleBase.h">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Vehicles\CitySampleVehicleBase.cpp">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Vehicles\CitySampleVehicleBase.h">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CitySample\Vehicles\DrivableVehicleComponent.cpp">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CitySample\Vehicles\DrivableVehicleComponent.h">
+      <Filter>Source\CitySample\Vehicles</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CitySample",
+			"Path": "C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CitySampleEditor",
+			"Path": "C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
