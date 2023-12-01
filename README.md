@@ -41,7 +41,12 @@ Credits to the developers at team TryToTry:
 ## Main Menu
 ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/0a44f650-a2fb-4b2e-80c2-e25e80ad893c) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/086350e1-0f48-405c-9d3e-9cc905554b76)
 ## Settings
-![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/e4b6908d-0604-41c2-b754-34a460fb8dae) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/71c76e0a-59ea-489d-8d8a-fe47c568b9bf) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/428e34d7-0d90-47fa-8270-b78df9f839d2) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/2d5e23d2-929e-4d61-987d-db0d02ea8b37)
+![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/e4b6908d-0604-41c2-b754-34a460fb8dae) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/71c76e0a-59ea-489d-8d8a-fe47c568b9bf) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/428e34d7-0d90-47fa-8270-b78df9f839d2) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/2d5e23d2-929e-4d61-987d-db0d02ea8b37) ![Traffic Sim Settings - Live View](https://github.com/pwntatochip/drivingsimulator/assets/36629188/72eb9803-c422-433c-a4d5-3b2e51688a2f) ![Traffic Sim Settings - Settings](https://github.com/pwntatochip/drivingsimulator/assets/36629188/8c588624-4a2f-480c-920b-5106e048bc3d) ![Traffic Sim Settings - Logging View](https://github.com/pwntatochip/drivingsimulator/assets/36629188/3d1ffa9e-8aa0-4f20-b9c8-d8857e2d1aec) ![Traffic Sim Settings - Map Menu](https://github.com/pwntatochip/drivingsimulator/assets/36629188/b6904a63-4ff9-42c2-b5ae-60e8af8b2834) ![Traffic Sim Settings - Controls](https://github.com/pwntatochip/drivingsimulator/assets/36629188/2fe69499-299f-4f0a-856c-8f4ec0afd487)
+
+
+
+
+
 
 
 
