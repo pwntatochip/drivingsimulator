@@ -38,7 +38,14 @@ Credits to the developers at team TryToTry:
 * Select any of the options menus on the top of the screen to see relevant information, change simulator settings, or to record and log information
 
 # UI Changes
+## Main Menu
 ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/0a44f650-a2fb-4b2e-80c2-e25e80ad893c) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/086350e1-0f48-405c-9d3e-9cc905554b76)
+## Settings
+![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/e4b6908d-0604-41c2-b754-34a460fb8dae) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/71c76e0a-59ea-489d-8d8a-fe47c568b9bf) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/428e34d7-0d90-47fa-8270-b78df9f839d2) ![image](https://github.com/pwntatochip/drivingsimulator/assets/36629188/2d5e23d2-929e-4d61-987d-db0d02ea8b37)
+
+
+
+
 
 
 # Testing
