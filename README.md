@@ -21,7 +21,6 @@ Credits to the developers at team TryToTry:
 
 ## Installation
 1. Clone the repository to your local machine
-   gh repo clone pwntatochip/drivingsimulator
 2. Download zip files
    https://drive.google.com/drive/folders/1k0AOF5my0YDM_6b9p3FLuTJvPV-oGEd0
 3. Replace 'Content' and 'Plugins' folders in the local git repo with the same folders in the newly downloaded zip files.
@@ -30,6 +29,12 @@ Credits to the developers at team TryToTry:
 4. Open the local git repo and right click the Unreal Engine Project File named 'TrafficSimUE5' with the blue Unreal Engine logo
 5. Select "Generate Visual Studio project files"
 6. Open the project in Unreal Engine 5.1.1
+7. Run the simulation
+
+# Usage
+* Use the 'WASD' keys to control the vehicle or the steering wheel and pedals if you are using them
+* Select any of the options menus on the top of the screen to see relevant information, change simulator settings, or to record and log information
+
 # Testing
 
 # Deployment
