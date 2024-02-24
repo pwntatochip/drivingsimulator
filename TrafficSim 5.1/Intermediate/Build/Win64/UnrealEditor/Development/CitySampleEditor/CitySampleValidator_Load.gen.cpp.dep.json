@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\citysamplevalidator_load.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\development\\citysampleeditor\\pch.citysampleeditor.h.pch",
+        "Includes": [
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\source\\citysampleeditor\\validation\\citysamplevalidator_load.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\source\\citysampleeditor\\validation\\citysampleeditorvalidator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\editor\\datavalidation\\source\\datavalidation\\public\\editorvalidatorbase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\editorsubsystem\\public\\editorsubsystem.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\editorsubsystem\\uht\\editorsubsystem.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\editor\\datavalidation\\source\\datavalidation\\public\\datavalidationmodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\editor\\datavalidation\\intermediate\\build\\win64\\unrealeditor\\inc\\datavalidation\\uht\\editorvalidatorbase.generated.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\citysampleeditorvalidator.generated.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\citysamplevalidator_load.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

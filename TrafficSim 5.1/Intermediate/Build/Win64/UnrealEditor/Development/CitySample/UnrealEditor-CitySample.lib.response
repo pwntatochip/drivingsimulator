@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CitySample.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\CitySampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.1_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.2_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.3_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.4_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.5_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.6_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.7_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.8_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.9_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.10_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Module.CitySample.11_of_11.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\Default.rc2.res"
+/OUT:"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySample\UnrealEditor-CitySample.lib"
