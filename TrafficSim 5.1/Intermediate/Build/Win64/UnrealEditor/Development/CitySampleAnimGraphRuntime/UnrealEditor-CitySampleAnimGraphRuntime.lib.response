@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CitySampleAnimGraphRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\PCH.CitySampleAnimGraphRuntime.h.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CopyPoseRotations.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CrowdSlopeWarping.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_RequestInertialization.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphRuntime.init.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CopyPoseRotations.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_CrowdSlopeWarping.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphNode_RequestInertialization.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\CitySampleAnimGraphRuntime.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\Default.rc2.res"
+/OUT:"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleAnimGraphRuntime\UnrealEditor-CitySampleAnimGraphRuntime.lib"

@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\source\\citysampleeditor\\validation\\citysamplevalidator_blueprints.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\development\\citysampleeditor\\pch.citysampleeditor.h.pch",
+        "Includes": [
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\source\\citysampleeditor\\validation\\citysamplevalidator_blueprints.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\source\\citysampleeditor\\validation\\citysampleeditorvalidator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\editor\\datavalidation\\source\\datavalidation\\public\\editorvalidatorbase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\editorsubsystem\\public\\editorsubsystem.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\editorsubsystem\\uht\\editorsubsystem.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\editor\\datavalidation\\source\\datavalidation\\public\\datavalidationmodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\editor\\datavalidation\\intermediate\\build\\win64\\unrealeditor\\inc\\datavalidation\\uht\\editorvalidatorbase.generated.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\citysampleeditorvalidator.generated.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\citysamplevalidator_blueprints.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\kismet2\\blueprinteditorutils.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_editablepinbase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\classes\\k2node.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\public\\blueprintactionfilter.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\public\\blueprintgraphmodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\classes\\blueprintnodebinder.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\weakfieldptr.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\public\\blueprintnodesignature.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\uht\\k2node.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\uht\\k2node_editablepinbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\classviewer\\public\\classviewermodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\blueprintgraph\\classes\\edgraphschema_k2.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\edgraph\\edgraphschema.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\kismet2\\kismet2namevalidators.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\edgraphschema.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\uht\\edgraphschema_k2.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\source\\citysampleeditor\\validation\\citysamplevalidator_load.h",
+            "c:\\users\\ddamiano\\documents\\trafficsim 5.1\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\citysamplevalidator_load.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
