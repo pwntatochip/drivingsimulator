@@ -1,10 +1,25 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleAnimGraphRuntime\\CitySampleAnimGraphRuntime.Build.cs",
-		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleEditor\\CitySampleEditor.Build.cs",
-		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySample\\CitySample.Build.cs",
-		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySample.Target.cs",
-		"C:\\Users\\derekdilger\\Desktop\\drivingsimulatorA\\TrafficSim 5.1\\Source\\CitySampleEditor.Target.cs"
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Source\\CitySampleAnimGraphRuntime\\CitySampleAnimGraphRuntime.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Source\\CitySampleEditor\\CitySampleEditor.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Source\\CitySample\\CitySample.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\CitySampleMassCrowd\\Source\\CitySampleMassCrowd\\CitySampleMassCrowd.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\CitySampleSensorGrid\\Source\\CitySampleSensorGridShaders\\CitySampleSensorGridShaders.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\CitySampleSensorGrid\\Source\\CitySampleSensorGrid\\CitySampleSensorGrid.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\Crossfader\\Source\\Crossfader\\Crossfader.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\Crossfader\\Source\\CrossfaderEditor\\CrossfaderEditor.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\HoverDrone\\Source\\HoverDrone\\HoverDrone.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\LogitechWheelPlugin\\Source\\LogitechWheelPlugin\\LogitechWheelPlugin.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\RuleProcessor\\Source\\PointCloud\\PointCloud.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\RuleProcessor\\Source\\PointCloudEditor\\PointCloudEditor.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\SoundScape\\Source\\SoundScape\\SoundScape.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\SoundScape\\Source\\SoundScapeEditor\\SoundScapeEditor.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\Traffic\\Source\\MassTraffic\\MassTraffic.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\Traffic\\Source\\MassTrafficEditor\\MassTrafficEditor.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\WorldAudioDataSystem\\Source\\WorldAudioDataSystem\\WorldAudioDataSystem.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Plugins\\WorldAudioDataSystem\\Source\\WorldAudioDataSystemEditor\\WorldAudioDataSystemEditor.Build.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Source\\CitySample.Target.cs",
+		"C:\\Users\\ddamiano\\Documents\\TrafficSim 5.1\\Source\\CitySampleEditor.Target.cs"
 	],
 	"EngineVersion": "5.1.1"
 }
