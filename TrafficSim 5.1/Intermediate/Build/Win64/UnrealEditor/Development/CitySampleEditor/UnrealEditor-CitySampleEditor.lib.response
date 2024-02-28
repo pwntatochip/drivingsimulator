@@ -1,0 +1,38 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CitySampleEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\PCH.CitySampleEditor.h.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\AssetHardReferencesCommandlet.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleContentValidationCommandlet.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleEditor.init.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleEditorBlueprintLibrary.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleEditorValidator.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleHLODBuilderMeshApproximate.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleMeshMerging.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleUnrealEdEngine.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleValidator_Blueprints.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleValidator_Load.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\MetaHumanToolEditorBlueprintLibrary.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\NaniteMeshLodGroupUpdateCommandlet.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\TextureDeDupeWidget.gen.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleEditor.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleEditorBlueprintLibrary.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleUnrealEdEngine.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\AssetHardReferencesCommandlet.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleContentValidationCommandlet.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\NaniteMeshLodGroupUpdateCommandlet.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleLevelInstanceUtils.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleMeshMerging.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\MetaHumanToolEditorBlueprintLibrary.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\TextureDeDupeWidget.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleEditorValidator.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleValidator_Blueprints.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleValidator_Load.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\CitySampleHLODBuilderMeshApproximate.cpp.obj"
+"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\Default.rc2.res"
+/OUT:"C:\Users\ddamiano\Documents\TrafficSim 5.1\Intermediate\Build\Win64\UnrealEditor\Development\CitySampleEditor\UnrealEditor-CitySampleEditor.lib"

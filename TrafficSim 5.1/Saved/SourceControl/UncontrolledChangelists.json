@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/MainMenuAndSelectMapMenu/Main-Menu.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/MainMenuAndSelectMapMenu/ControlScheme.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/ControlSchemeMap.umap",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/CollectionOfViewsUIWithDBFunctions.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/UI/Blueprints/OptionsMenu/Keyboard_Controls.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/Images/MainMenuBackground.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/MainMenuAndSelectMapMenu/SelectMapView.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/MainMenuAndSelectMapMenu/ControlSchemePawn.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/MainMenuAndSelectMapMenu/ControlSchemeGameMode.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/CollectionOfViewsUI.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/CollectionOfViewsUIForVR.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/VehicleTemplate/Blueprints/SportsCar/SportsCarPawn.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/BP_DataActor.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/9W/N2L54GHWRVWBINMOPZS67P.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/OurFiles/UI/LoggingStructure.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/Gameplay/Driving/BP_CarEntryInteraction.uasset",
+				"C:/Users/ddamiano/Documents/TrafficSim 5.1/Content/UI/Blueprints/OptionsMenu/W_key.uasset"
+			]
+		}
+	]
+}
