@@ -1,0 +1,5 @@
+[time since start of simulation], [degrees rotated relative to neutral wheel position] //with an increment at most 0.05s
+0.00, 0
+0.05, 0
+0.10, 0
+0.15, 4
