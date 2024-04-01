@@ -1,0 +1,1 @@
+the wheel doesn't need additional hardware to sense rotational position
