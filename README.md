@@ -61,5 +61,6 @@ Credits to the developers at team TryToTry:
 # Deployment
 
 # Developer Instructions
+For the steering wheel orientation, this library may be useful: https://github.com/cengizozel/logidrivepy
 
 # Timeline
