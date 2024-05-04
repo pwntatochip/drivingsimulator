@@ -72,5 +72,3 @@ Most testing we conducted involved testing 'from the perspective of a user'. I.e
 
 # Developer Instructions
 For the steering wheel orientation, this library may be useful: https://github.com/cengizozel/logidrivepy
-
-# Timeline
