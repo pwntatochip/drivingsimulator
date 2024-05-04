@@ -7,7 +7,14 @@ Drivingsimulator or TrafficSim is a project started by the chair of Civil Engine
 This application has been developed by TryToTry, a CSUS Computer Science senior project team. This project has been in active development by multiple senior project teams prior to TryToTry and may be developed by other teams in the future. 
 # Contributors
 Credits to the developers at team TryToTry:
-**Derek Dilger, Christian Ross, Tim O'Keefe, Ada Mir Raga, Drew Bruggman, David Damiano, Alec Halici, and Gerrit Beamesderfer.**
+**Derek Dilger, derekdilger@csus.edu
+Christian Ross, cjross@csus.edu
+Tim O'Keefe, timokeefe@csus.edu
+Ada Mir Raga, adamirraga@csus.edu
+Drew Bruggman, drewbruggman@csus.edu
+David Damiano, ddamiano@csus.edu
+Alec Halici, ahalici@csus.edu
+Gerrit Beamesderfer, gbeamesderfer@csus.edu**
 
 # Features
 
@@ -57,8 +64,11 @@ Credits to the developers at team TryToTry:
 
 
 # Testing
+Unit tests can be run within unreal engine's editor. https://www.unrealengine.com/en-US
+The version is 5.1.1. Future versions may work as unreal tries for forwards compatibility.
+This tutorial is the best explanation of how to test systematically. https://www.youtube.com/watch?v=f4LpDXjFgVQ
 
-# Deployment
+Most testing we conducted involved testing 'from the perspective of a user'. I.e., if a feature that relies on 400 functions works, then it's not necessary to test the 400 functions individually.
 
 # Developer Instructions
 For the steering wheel orientation, this library may be useful: https://github.com/cengizozel/logidrivepy
